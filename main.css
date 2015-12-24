@@ -1,3 +1,7 @@
 .red {
   color: ;#E80000;
 }
+
+.img-circle {
+  border-radius: 100%;
+}
